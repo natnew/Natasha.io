@@ -2,15 +2,31 @@
 
 Welcome to My Data Science Portfolio
 
-### Markdown
+### Data Analysis
+Digital Construction Analysis<br>
+Data For Good <br>
+GIS (Geographical Information Systems) Analysis <br>
+Sustainable Design Analysis <br>
+
+### Data Visualisation
+Project Management Data Tools <br>
+
+### Data Science 
+Data in Construction <br>
+Data For Business <br>
+Better BIM (Building Information Modelling) <br>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 
-# Data Analysis
-# Data Visualisation
-# Data Science
+Data Analysis
+Digital Construction Analysis
+Data For Good 
+GIS (Geographical Information Systems) Analysis 
+Sustainable Design Analysis 
+Data Visualisation
+Data Science
 
 
 [Link](url) and ![Image](src)
