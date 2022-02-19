@@ -2,19 +2,21 @@
 
 Welcome to My Data Science Portfolio
 
-### Data Analysis
-Digital Construction Analysis<br>
-Data For Good <br>
-GIS (Geographical Information Systems) Analysis <br>
-Sustainable Design Analysis <br>
+### Home
 
-### Data Visualisation
+
+### About
 Project Management Data Tools <br>
 
-### Data Science 
-Data in Construction <br>
-Data For Business <br>
-Better BIM (Building Information Modelling) <br>
+### Projects
+
+### Certificates
+
+[Data Science For Construction]()
+
+[More Certificates](https://github.com/natnew/CPD)
+
+### LinkedIn
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
